@@ -44,7 +44,10 @@ spring.datasource.password=senha_do_banco</code></pre>
 <h2>Contribuição</h2>
 <p> Mesmo pendente de implementações, contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue para reportar bugs, sugerir melhorias ou enviar pull requests.</p>
 
-
+# Badge Adquirido
+<p align="center">
+![badge literalura](https://github.com/New-Masster/LiterAlura/assets/82901003/1a91f5a1-75f4-43c8-a1db-6cd423a9ea89)
+</p>
 # Autores
 
 | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/82901003?v=4" width=115><br><sub>Rogério Oliveira</sub>](https://github.com/New_Masster) 
